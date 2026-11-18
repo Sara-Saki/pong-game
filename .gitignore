@@ -1,1 +1,17 @@
-﻿.vs/
+﻿# Visual Studio / C++ Ignores
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.ipch
+*.aps
+*.bsc
+*.idb
+*.ncb
+*.sbr
+*.user
+*.suo
